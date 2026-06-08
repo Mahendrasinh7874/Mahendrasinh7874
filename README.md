@@ -9,7 +9,6 @@ Frontend Engineer with 3+ years of experience building enterprise applications u
 - TypeScript
 - Redux Toolkit
 - Ant Design
-- SCSS
 - Tailwind CSS
 - REST APIs
 - Node.js
