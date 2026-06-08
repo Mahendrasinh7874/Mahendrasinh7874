@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Mahendrasinh Zala 👋
 
-<!--
-**Mahendrasinh7874/Mahendrasinh7874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer with 3+ years of experience building enterprise applications using React.js, Next.js, TypeScript, Redux Toolkit, and Ant Design.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React.js
+- Next.js
+- TypeScript
+- Redux Toolkit
+- Ant Design
+- SCSS
+- Tailwind CSS
+- REST APIs
+- Node.js
+
+## Current Focus
+
+- Frontend Architecture
+- Performance Optimization
+- Reusable Component Systems
+- Enterprise SaaS Applications
+
+## Contact
+
+LinkedIn: linkedin.com/in/mahendrasinh-zala
+Email: mahendrazala945@gmail.com
